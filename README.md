@@ -10,17 +10,17 @@ Trabalho do **front ao back-end**, entregando desde **landing pages de alta conv
 
 Sou apaixonado por tecnologia, soluções inteligentes e pela construção de produtos digitais que realmente fazem diferença. Minha jornada começou cedo, aos 15 anos, movido por curiosidade e pela vontade de transformar ideias em realidade. O que começou com simples landing pages evoluiu, com o tempo, para uma trajetória sólida em desenvolvimento **Full Stack**, criando sistemas robustos, escaláveis e preparados para crescer junto com os negócios.
 
-Aprendi programando na prática — estudando, testando, quebrando, reconstruindo e evoluindo constantemente. Esse processo me trouxe não apenas habilidades técnicas, mas também **raciocínio lógico, visão estratégica e maturidade profissional**. Hoje, enxergo o desenvolvimento como algo muito além de escrever código: é sobre **performance, experiência do usuário, impacto real e resultados**.
+Aprendi programando na prática  estudando, testando, quebrando, reconstruindo e evoluindo constantemente. Esse processo me trouxe não apenas habilidades técnicas, mas também **raciocínio lógico, visão estratégica e maturidade profissional**. Hoje, enxergo o desenvolvimento como algo muito além de escrever código: é sobre **performance, experiência do usuário, impacto real e resultados**.
 
 Atuo com segurança tanto no **back-end** quanto no **front-end**. No back-end, trabalho com **Node.js, PHP, APIs, integrações complexas, automações e bancos de dados**, sempre priorizando arquitetura limpa, segurança e escalabilidade. No front-end, desenvolvo interfaces modernas e performáticas com **React, TypeScript e Next.js**, focando em usabilidade, clareza e fluidez.
 
 Também possuo experiência com **AWS, CI/CD, pipelines de deploy e boas práticas de arquitetura**, garantindo qualidade, estabilidade e crescimento sustentável das aplicações. Cada solução é pensada para funcionar bem hoje e continuar performando à medida que o produto escala.
 
-Além da programação, adquiri experiência prática com **gestão de tráfego pago e conversão**, o que me proporciona uma visão completa do ciclo do produto — **do código ao crescimento**. Isso me permite criar soluções que não apenas funcionam tecnicamente, mas que **atraem usuários, convertem melhor e geram resultados reais para o negócio**.
+Além da programação, adquiri experiência prática com **gestão de tráfego pago e conversão**, o que me proporciona uma visão completa do ciclo do produto  **do código ao crescimento**. Isso me permite criar soluções que não apenas funcionam tecnicamente, mas que **atraem usuários, convertem melhor e geram resultados reais para o negócio**.
 
 Sou movido por desafios complexos. Gosto de criar sistemas grandes, automatizados, inteligentes e estáveis. Já desenvolvi **plataformas de faturamento, e-commerces, sistemas de membros, dashboards em tempo real, plugins personalizados, estruturas de SaaS e automações** que economizam tempo, reduzem custos e aumentam eficiência.
 
-Programar não é apenas minha profissão — é meu hobby, minha ferramenta de criação e meu meio de construir algo maior. Trabalho com propósito, foco em performance, padrão de excelência e aprendizado contínuo.
+Programar não é apenas minha profissão  é meu hobby, minha ferramenta de criação e meu meio de construir algo maior. Trabalho com propósito, foco em performance, padrão de excelência e aprendizado contínuo.
 
  **Meu objetivo é desenvolver produtos digitais que façam sentido, funcionem com excelência, cresçam de forma inteligente e sejam construídos com código limpo, sólido e sustentável.**
 
