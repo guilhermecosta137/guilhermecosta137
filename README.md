@@ -102,15 +102,10 @@ Se quiser trocar ideia, colaborar ou falar sobre projetos:
 - GitHub: **(https://github.com/guilhermecosta137)**
 - LinkedIn: **(https://www.linkedin.com/in/guilherme-costa-55850036a/)**
 - Email: **guilhermethynk299@gmail.com**
+- Numero: **32988192438**
 
 ---
 
 ⭐ Se algum projeto te ajudou ou chamou atenção, não esquece de deixar uma estrela!
 
-- LinkedIn: **(https://www.linkedin.com/in/guilherme-costa-55850036a/)**
-- Email: **guilhermethynk299@gmail.com**
-
----
-
-⭐ Se algum projeto te ajudou ou chamou atenção, não esquece de deixar uma estrela!
 
