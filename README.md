@@ -68,7 +68,7 @@ Programar não é apenas minha profissão  é meu hobby, minha ferramenta de cri
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Netlify](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=netlify)
+![Netlify](https://img.shields.io/badge/Netlify-F24E1E?style=for-the-badge&logo=netlify)
 
 ---
 
