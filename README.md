@@ -8,22 +8,27 @@ Trabalho do **front ao back-end**, entregando desde **landing pages de alta conv
 ---
 ##  Sobre mim
 
-Sou apaixonado por tecnologia, soluções inteligentes e pela construção de produtos digitais que realmente fazem diferença. Minha jornada começou cedo, aos 15 anos, movido por curiosidade e pela vontade de transformar ideias em realidade. O que começou com simples landing pages evoluiu, com o tempo, para uma trajetória sólida em desenvolvimento **Full Stack**, criando sistemas robustos, escaláveis e preparados para crescer junto com os negócios.
+Minha trajetória Minha jornada na tecnologia começou aos 15 anos, movida por algo simples, mas poderoso: a curiosidade. Eu queria entender como sites, sistemas e aplicativos funcionavam como uma ideia se transformava em algo que pessoas podiam usar, acessar e interagir. Peguei essa curiosidade e transformei em ação. Comecei com pequenos experimentos, criando páginas simples, testando códigos, errando, quebrando e reconstruindo. E foi justamente nesse processo que descobri o que realmente me movia: a capacidade de criar soluções reais a partir de linhas de código.
 
-Aprendi programando na prática  estudando, testando, quebrando, reconstruindo e evoluindo constantemente. Esse processo me trouxe não apenas habilidades técnicas, mas também **raciocínio lógico, visão estratégica e maturidade profissional**. Hoje, enxergo o desenvolvimento como algo muito além de escrever código: é sobre **performance, experiência do usuário, impacto real e resultados**.
+Com o tempo, o hobby se transformou em paixão e a paixão, em profissão. Estudei todos os dias, sozinho, com dedicação intensa. Não ficava apenas consumindo conteúdo eu criava, testava, adaptava e experimentava. Meu aprendizado veio da prática: desenvolver projetos por conta própria, entender como as coisas funcionam por trás, explorar integrações, APIs, autenticação, front-end, back-end e, principalmente, como cada parte se conecta para formar um sistema completo.
 
-Atuo com segurança tanto no **back-end** quanto no **front-end**. No back-end, trabalho com **Node.js, PHP, APIs, integrações complexas, automações e bancos de dados**, sempre priorizando arquitetura limpa, segurança e escalabilidade. No front-end, desenvolvo interfaces modernas e performáticas com **React, TypeScript e Next.js**, focando em usabilidade, clareza e fluidez.
+Paralelamente ao desenvolvimento, passei a estudar também o universo do marketing digital e tráfego pago. Eu queria entender como negócios crescem, como dados influenciam decisões e como a tecnologia pode acelerar resultados. Essa experiência me ensinou algo valioso: não adianta apenas construir sistemas é preciso construir soluções que gerem resultado, conversão e impacto real.
 
-Também possuo experiência com **AWS, CI/CD, pipelines de deploy e boas práticas de arquitetura**, garantindo qualidade, estabilidade e crescimento sustentável das aplicações. Cada solução é pensada para funcionar bem hoje e continuar performando à medida que o produto escala.
+Aprendi a analisar métricas, otimizar processos e unir tecnologia + estratégia. Isso me deu uma visão diferenciada: não sou apenas um desenvolvedor sou um criador de soluções digitais que têm propósito.
 
-Além da programação, adquiri experiência prática com **gestão de tráfego pago e conversão**, o que me proporciona uma visão completa do ciclo do produto  **do código ao crescimento**. Isso me permite criar soluções que não apenas funcionam tecnicamente, mas que **atraem usuários, convertem melhor e geram resultados reais para o negócio**.
+Conforme fui evoluindo, entrei em projetos cada vez mais desafiadores. Participei do desenvolvimento de sistemas web, plataformas completas, dashboards, automações inteligentes, APIs e integrações com alto nível de complexidade. Colaborei com outros profissionais, usei versionamento, participei de reuniões técnicas, planejamento de entregas, feedbacks e acompanhamento de deploys. Tudo isso me ensinou sobre comunicação, trabalho em equipe, clareza técnica e responsabilidade profissional.
 
-Sou movido por desafios complexos. Gosto de criar sistemas grandes, automatizados, inteligentes e estáveis. Já desenvolvi **plataformas de faturamento, e-commerces, sistemas de membros, dashboards em tempo real, plugins personalizados, estruturas de SaaS e automações** que economizam tempo, reduzem custos e aumentam eficiência.
+Hoje, com 18 anos, atuo como Desenvolvedor Full Stack, unindo conhecimento técnico, visão estratégica e mentalidade de produto. Domino JavaScript, Node.js, TypeScript, React, PHP, arquiteturas escaláveis, integração com APIs, automações, deploys e boas práticas de performance, segurança e versionamento.
 
-Programar não é apenas minha profissão  é meu hobby, minha ferramenta de criação e meu meio de construir algo maior. Trabalho com propósito, foco em performance, padrão de excelência e aprendizado contínuo.
+Sou movido por desafios e tenho uma característica forte: não aprendo apenas para saber aprendo para construir. Crio projetos reais, resolvo problemas reais, estudo arquitetura, entendo performance, pesquiso, testo, quebro, refaço e evoluo.
+
+Para mim, programar não é apenas escrever código. É traduzir necessidades em soluções, conectar ideias, criar experiências e gerar valor real para quem usa.
+
+Hoje, meu foco está em: Construir sistemas performáticos, escaláveis e inteligentes Desenvolver com propósito, clareza e responsabilidade técnica Aprender continuamente, com consistência e aplicabilidade Criar soluções que funcionam, ajudam e geram impacto
+
+A programação não é só o que eu faço é parte de quem eu sou. E isso é apenas o começo de uma jornada de criação, evolução e grandes conquistas.
 
  **Meu objetivo é desenvolver produtos digitais que façam sentido, funcionem com excelência, cresçam de forma inteligente e sejam construídos com código limpo, sólido e sustentável.**
-
 
 ---
 
