@@ -16,7 +16,7 @@ Passei a estudar também o universo do marketing digital e tráfego pago. Eu que
 
 Aprendi a analisar métricas, otimizar processos e unir tecnologia + estratégia. Isso me deu uma visão diferenciada: não sou apenas um desenvolvedor sou um criador de soluções digitais que têm propósito.
 
-Conforme fui evoluindo, entrei em projetos cada vez mais desafiadores. Evolui a desenvolvimento de sistemas web, plataformas completas, dashboards, automações inteligentes, APIs e integrações com alto nível de complexidade. Colaborei com outros profissionais, usei versionamento, participei de reuniões técnicas, planejamento de entregas, feedbacks e acompanhamento de deploys. Tudo isso me ensinou sobre comunicação, trabalho em equipe, clareza técnica e responsabilidade profissional.
+Conforme fui evoluindo, entrei em projetos cada vez mais desafiadores. Evolui em desenvolvimento de sistemas web, plataformas completas, dashboards, automações inteligentes, APIs e integrações com alto nível de complexidade. Colaborei com outros profissionais, usei versionamento, participei de reuniões técnicas, planejamento de entregas, feedbacks e acompanhamento de deploys. Tudo isso me ensinou sobre comunicação, trabalho em equipe, clareza técnica e responsabilidade profissional.
 
 Hoje, com 18 anos, atuo como Desenvolvedor Full Stack, unindo conhecimento técnico, visão estratégica e mentalidade de produto. Domino JavaScript, Node.js, TypeScript, React, PHP, arquiteturas escaláveis, integração com APIs, automações, deploys e boas práticas de performance, segurança e versionamento.
 
