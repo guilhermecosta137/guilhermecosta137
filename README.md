@@ -12,19 +12,17 @@ Minha trajetória Minha jornada na tecnologia começou aos 15 anos, movida por a
 
 Com o tempo, o hobby se transformou em paixão e a paixão, em profissão. Estudei todos os dias, sozinho, com dedicação intensa. Não ficava apenas consumindo conteúdo eu criava, testava, adaptava e experimentava. Meu aprendizado veio da prática: desenvolver projetos por conta própria, entender como as coisas funcionam por trás, explorar integrações, APIs, autenticação, front-end, back-end e, principalmente, como cada parte se conecta para formar um sistema completo.
 
-Paralelamente ao desenvolvimento, passei a estudar também o universo do marketing digital e tráfego pago. Eu queria entender como negócios crescem, como dados influenciam decisões e como a tecnologia pode acelerar resultados. Essa experiência me ensinou algo valioso: não adianta apenas construir sistemas é preciso construir soluções que gerem resultado, conversão e impacto real.
+Passei a estudar também o universo do marketing digital e tráfego pago. Eu queria entender como negócios crescem, como dados influenciam decisões e como a tecnologia pode acelerar resultados. Essa experiência me ensinou algo valioso: não adianta apenas construir sistemas é preciso construir soluções que gerem resultado, conversão e impacto real.
 
 Aprendi a analisar métricas, otimizar processos e unir tecnologia + estratégia. Isso me deu uma visão diferenciada: não sou apenas um desenvolvedor sou um criador de soluções digitais que têm propósito.
 
-Conforme fui evoluindo, entrei em projetos cada vez mais desafiadores. Participei do desenvolvimento de sistemas web, plataformas completas, dashboards, automações inteligentes, APIs e integrações com alto nível de complexidade. Colaborei com outros profissionais, usei versionamento, participei de reuniões técnicas, planejamento de entregas, feedbacks e acompanhamento de deploys. Tudo isso me ensinou sobre comunicação, trabalho em equipe, clareza técnica e responsabilidade profissional.
+Conforme fui evoluindo, entrei em projetos cada vez mais desafiadores. Evolui a desenvolvimento de sistemas web, plataformas completas, dashboards, automações inteligentes, APIs e integrações com alto nível de complexidade. Colaborei com outros profissionais, usei versionamento, participei de reuniões técnicas, planejamento de entregas, feedbacks e acompanhamento de deploys. Tudo isso me ensinou sobre comunicação, trabalho em equipe, clareza técnica e responsabilidade profissional.
 
 Hoje, com 18 anos, atuo como Desenvolvedor Full Stack, unindo conhecimento técnico, visão estratégica e mentalidade de produto. Domino JavaScript, Node.js, TypeScript, React, PHP, arquiteturas escaláveis, integração com APIs, automações, deploys e boas práticas de performance, segurança e versionamento.
 
-Sou movido por desafios e tenho uma característica forte: não aprendo apenas para saber aprendo para construir. Crio projetos reais, resolvo problemas reais, estudo arquitetura, entendo performance, pesquiso, testo, quebro, refaço e evoluo.
+Sou movido por desafios e tenho uma característica forte: não aprendo apenas para saber, aprendo para construir. Crio projetos reais, resolvo problemas reais, estudo arquitetura, entendo performance, pesquiso, testo, quebro, refaço e evoluo.
 
 Para mim, programar não é apenas escrever código. É traduzir necessidades em soluções, conectar ideias, criar experiências e gerar valor real para quem usa.
-
-Hoje, meu foco está em: Construir sistemas performáticos, escaláveis e inteligentes Desenvolver com propósito, clareza e responsabilidade técnica Aprender continuamente, com consistência e aplicabilidade Criar soluções que funcionam, ajudam e geram impacto
 
 A programação não é só o que eu faço é parte de quem eu sou. E isso é apenas o começo de uma jornada de criação, evolução e grandes conquistas.
 
