@@ -14,7 +14,7 @@ Com o tempo, o hobby se transformou em paixão e a paixão, em profissão. Estud
 
 Passei a estudar também o universo do marketing digital e tráfego pago. Eu queria entender como negócios crescem, como dados influenciam decisões e como a tecnologia pode acelerar resultados. Essa experiência me ensinou algo valioso: não adianta apenas construir sistemas é preciso construir soluções que gerem resultado, conversão e impacto real.
 
-Aprendi a analisar métricas, otimizar processos e unir tecnologia + estratégia. Isso me deu uma visão diferenciada: não sou apenas um desenvolvedor sou um criador de soluções digitais que têm propósito.
+Aprendi a analisar métricas, otimizar processos e unir tecnologia + estratégia. Isso me deu uma visão diferenciada: não sou apenas um desenvolvedor, sou um criador de soluções digitais que têm propósito.
 
 Conforme fui evoluindo, entrei em projetos cada vez mais desafiadores. Evolui em desenvolvimento de sistemas web, plataformas completas, dashboards, automações inteligentes, APIs e integrações com alto nível de complexidade. Colaborei com outros profissionais, usei versionamento, participei de reuniões técnicas, planejamento de entregas, feedbacks e acompanhamento de deploys. Tudo isso me ensinou sobre comunicação, trabalho em equipe, clareza técnica e responsabilidade profissional.
 
