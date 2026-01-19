@@ -8,7 +8,7 @@ Trabalho do **front ao back-end**, entregando desde **landing pages de alta conv
 ---
 ##  Sobre mim
 
-Minha trajetória Minha jornada na tecnologia começou aos 15 anos, movida por algo simples, mas poderoso: a curiosidade. Eu queria entender como sites, sistemas e aplicativos funcionavam como uma ideia se transformava em algo que pessoas podiam usar, acessar e interagir. Peguei essa curiosidade e transformei em ação. Comecei com pequenos experimentos, criando páginas simples, testando códigos, errando, quebrando e reconstruindo. E foi justamente nesse processo que descobri o que realmente me movia: a capacidade de criar soluções reais a partir de linhas de código.
+Minha jornada na tecnologia começou aos 15 anos, movida por algo simples, mas poderoso: a curiosidade. Eu queria entender como sites, sistemas e aplicativos funcionavam como uma ideia se transformava em algo que pessoas podiam usar, acessar e interagir. Peguei essa curiosidade e transformei em ação. Comecei com pequenos experimentos, criando páginas simples, testando códigos, errando, quebrando e reconstruindo. E foi justamente nesse processo que descobri o que realmente me movia: a capacidade de criar soluções reais a partir de linhas de código.
 
 Com o tempo, o hobby se transformou em paixão e a paixão, em profissão. Estudei todos os dias, sozinho, com dedicação intensa. Não ficava apenas consumindo conteúdo eu criava, testava, adaptava e experimentava. Meu aprendizado veio da prática: desenvolver projetos por conta própria, entender como as coisas funcionam por trás, explorar integrações, APIs, autenticação, front-end, back-end e, principalmente, como cada parte se conecta para formar um sistema completo.
 
