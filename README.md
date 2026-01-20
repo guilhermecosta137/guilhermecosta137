@@ -6,7 +6,7 @@
 Trabalho do **front ao back-end**, entregando desde **landing pages de alta conversão** até **sistemas internos complexos**, **dashboards**, **SaaS** e **plataformas de e-commerce**.
 
 ---
-👨‍💻 Sobre mim
+Sobre mim
 
 Minha jornada na tecnologia começou aos 15 anos, movida por algo simples e essencial: a curiosidade. Sempre quis entender como sites, sistemas e aplicações funcionam — como uma ideia se transforma em algo real, utilizável e acessível. Essa curiosidade rapidamente virou prática. Comecei com pequenos experimentos, criando páginas simples, testando códigos, errando, quebrando e reconstruindo. Foi nesse processo que descobri o que realmente me motiva: transformar código em soluções reais.
 
