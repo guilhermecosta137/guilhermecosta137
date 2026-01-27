@@ -34,8 +34,6 @@ Meu objetivo é desenvolver produtos digitais que façam sentido, funcionem com 
 - ⚙️ **Automação de processos e controles internos**
 - 🔐 **Sistemas com autenticação, permissões e regras de negócio**
 - 📈 **Aplicações focadas em performance, escalabilidade e conversão**
-- 💳 **Payments, subscriptions & business logic**
-- 🤖 **Automation & integrations**
 
 ---
 
