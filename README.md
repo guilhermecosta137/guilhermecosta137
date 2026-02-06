@@ -51,7 +51,7 @@ Meu objetivo é desenvolver produtos digitais que façam sentido, funcionem com 
 ![UI/UX](https://img.shields.io/badge/ui/ux-20232A?style=for-the-badge&logo=ui/ux)
 
 ### Backend
-![Nodejs](https://img.shields.io/badge/[nodejs-232F3E?style=for-the-badge&logo=nodejs]
+![Nodejs](https://img.shields.io/badge/Nodejs-2D3748?style=for-the-badge&logo=nodejs)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
