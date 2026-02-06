@@ -61,7 +61,6 @@ Meu objetivo é desenvolver produtos digitais que façam sentido, funcionem com 
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
