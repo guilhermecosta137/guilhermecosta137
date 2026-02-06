@@ -48,6 +48,7 @@ Meu objetivo é desenvolver produtos digitais que façam sentido, funcionem com 
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
 ![Vite](https://img.shields.io/badge/Vite-38BDF8?style=for-the-badge&logo=Vite)
+![UI/UX](https://img.shields.io/badge/ui/ux-20232A?style=for-the-badge&logo=ui/ux)
 
 ### Backend
 
