@@ -14,7 +14,7 @@ Com o tempo, o que era curiosidade se tornou dedicação diária. Estudei de for
 
 À medida que evoluía, passei a enfrentar desafios técnicos mais complexos. Trabalhei no desenvolvimento de sistemas web, plataformas completas, dashboards, automações e APIs, lidando com integrações e fluxos reais de dados. Também adquiri experiência colaborando com outros desenvolvedores, utilizando versionamento de código, participando de discussões técnicas, planejamento de entregas, revisões e acompanhamento de deploys. Isso fortaleceu minha comunicação, clareza técnica e responsabilidade profissional.
 
-Hoje, aos 18 anos, atuo como Desenvolvedor Full Stack, unindo base técnica sólida, visão de produto e atenção às boas práticas de engenharia. Trabalho com  JavaScript, TypeScript, React, Next.js, Node.js, PHP, integração com APIs, automações e desenvolvimento de arquiteturas escaláveis e  UI/UX, sempre buscando performance, segurança, organização e manutenibilidade do código.
+Hoje, aos 18 anos, atuo como Desenvolvedor Full Stack, unindo base técnica sólida, visão de produto e atenção às boas práticas de engenharia. Trabalho com  JavaScript, TypeScript, React, Next.js, Vite, Node.js, PHP, integração com APIs, automações e desenvolvimento de arquiteturas escaláveis e  UI/UX, sempre buscando performance, segurança, organização e manutenibilidade do código.
 
 Sou movido por desafios e aprendizado contínuo. Não aprendo apenas para acumular conhecimento, mas para construir. Desenvolvo projetos reais, resolvo problemas concretos, estudo arquitetura, analiso performance, testo soluções, refaço quando necessário e evoluo constantemente.
 
