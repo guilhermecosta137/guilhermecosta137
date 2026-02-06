@@ -33,7 +33,7 @@ Meu objetivo é desenvolver produtos digitais que façam sentido, funcionem com 
 - 🛒 **Sites institucionais e E-commerces**
 - ⚙️ **Automação de processos e controles internos**
 - 🔐 **Sistemas com autenticação, permissões e regras de negócio**
-- 📈 **Aplicações focadas em performance, escalabilidade e conversão**
+- 📈 **Aplicações otimizadas para performance, escalabilidade e conversão**
 
 ---
 
