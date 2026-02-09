@@ -8,20 +8,13 @@ Trabalho do **front ao back-end**, entregando desde **landing pages de alta conv
 ---
 Sobre mim
 
-Minha jornada na tecnologia começou aos 15 anos, movida por algo simples e essencial: a curiosidade. Sempre quis entender como sites, sistemas e aplicações funcionam como uma ideia se transforma em algo real, utilizável e acessível. Essa curiosidade rapidamente virou prática. Comecei com pequenos experimentos, criando páginas simples, testando códigos, errando, quebrando e reconstruindo. Foi nesse processo que descobri o que realmente me motiva: transformar código em soluções reais.
+Sou Desenvolvedor Full Stack, comecei a programar aos 15 anos e aprendi tecnologia de forma prática, construindo projetos reais desde o início.
 
-Com o tempo, o que era curiosidade se tornou dedicação diária. Estudei de forma autodidata, sempre com foco na prática. Não me limitava a consumir conteúdo eu aplicava, testava, adaptava e experimentava. Meu aprendizado veio principalmente do desenvolvimento de projetos próprios, entendendo como cada camada funciona e como front-end, back-end, APIs, autenticação e integrações se conectam para formar sistemas completos.
+Trabalho com JavaScript, TypeScript, React, Next.js, Vite e Node.js, desenvolvendo sistemas web completos, dashboards, APIs, automações e integrações, com foco em performance, escalabilidade, código limpo e UI/UX funcional.
 
-À medida que evoluía, passei a enfrentar desafios técnicos mais complexos. Trabalhei no desenvolvimento de sistemas web, plataformas completas, dashboards, automações e APIs, lidando com integrações e fluxos reais de dados. Também adquiri experiência colaborando com outros desenvolvedores, utilizando versionamento de código, participando de discussões técnicas, planejamento de entregas, revisões e acompanhamento de deploys. Isso fortaleceu minha comunicação, clareza técnica e responsabilidade profissional.
+Sou fundador da GrayCoder, minha agência de desenvolvimento, onde crio soluções digitais sob medida, cuidando desde a arquitetura até a entrega final.
 
-Hoje, aos 18 anos, atuo como Desenvolvedor Full Stack, unindo base técnica sólida, visão de produto e atenção às boas práticas de engenharia. Trabalho com  JavaScript, TypeScript, React, Next.js, Vite, Node.js, integração com APIs, automações e desenvolvimento de arquiteturas escaláveis e  UI/UX, sempre buscando performance, segurança, organização e manutenibilidade do código.
-
-Sou movido por desafios e aprendizado contínuo. Não aprendo apenas para acumular conhecimento, mas para construir. Desenvolvo projetos reais, resolvo problemas concretos, estudo arquitetura, analiso performance, testo soluções, refaço quando necessário e evoluo constantemente.
-
-Para mim, programar não é apenas escrever código. É traduzir necessidades em soluções, conectar ideias, criar experiências funcionais e gerar valor real por meio da tecnologia.
-
-Meu objetivo é desenvolver produtos digitais que façam sentido, funcionem com excelência, cresçam de forma inteligente e sejam construídos com código limpo, sólido e sustentável.
-
+Programar, pra mim, é pensar arquitetura, escrever código limpo e entregar soluções que funcionam no mundo real.
 ---
 
 ##  O que eu desenvolvo
