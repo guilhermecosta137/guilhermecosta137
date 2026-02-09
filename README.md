@@ -1,7 +1,7 @@
 
 #  Prazer, eu sou Guilherme Costa
 
- **Desenvolvedor Full Stack Java** focado em criar **produtos digitais completos**, escaláveis e orientados a resultado.
+ **Desenvolvedor Full Stack** focado em criar **produtos digitais completos**, escaláveis e orientados a resultado.
 
 Trabalho do **front ao back-end**, entregando desde **landing pages de alta conversão** até **sistemas internos complexos**, **dashboards**, **SaaS** e **plataformas de e-commerce**.
 
