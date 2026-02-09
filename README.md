@@ -8,15 +8,15 @@ Trabalho do **front ao back-end**, entregando desde **landing pages de alta conv
 ---
 ## 👨‍💻 Sobre mim
 
-Sou Desenvolvedor Full Stack, comecei a programar aos 15 anos e aprendi tecnologia de forma prática, construindo projetos reais desde o início.
+Sou Desenvolvedor Full Stack e comecei a programar aos 15 anos, aprendendo tecnologia de forma prática e construindo projetos reais desde cedo.
 
-Atuo do front ao back-end, desenvolvendo sistemas web completos, dashboards, APIs, automações e integrações, com foco em performance, escalabilidade, código limpo e UI/UX funcional.
+Atuo do front ao back-end, desenvolvendo sistemas web completos, dashboards, APIs, automações e integrações, sempre com foco em performance, escalabilidade, código limpo e UI/UX funcional.
 
-Tenho experiência com bancos de dados relacionais e não relacionais, incluindo modelagem de dados, consultas e integração com aplicações reais.
+Tenho experiência com bancos de dados relacionais e não relacionais, incluindo modelagem, consultas e integração com aplicações reais.
 
-E hoje com 18 anos sou fundador da **GrayCoder**, minha agência de desenvolvimento, onde crio soluções digitais sob medida, cuidando desde a arquitetura até a entrega final.
+Hoje, aos 18 anos, sou fundador da GrayCoder, minha agência de desenvolvimento, onde crio soluções digitais sob medida, cuidando de toda a arquitetura até a entrega final.
 
-Programar, pra mim, é pensar arquitetura, escrever código limpo e entregar soluções que funcionam no mundo real.
+Para mim, programar é mais que escrever código: é projetar soluções que funcionam no mundo real.
 
 ---
 
