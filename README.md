@@ -6,15 +6,18 @@
 Trabalho do **front ao back-end**, entregando desde **landing pages de alta conversão** até **sistemas internos complexos**, **dashboards**, **SaaS** e **plataformas de e-commerce**.
 
 ---
+## 👨‍💻 Sobre mim
+
 Sou Desenvolvedor Full Stack, comecei a programar aos 15 anos e aprendi tecnologia de forma prática, construindo projetos reais desde o início.
 
-Trabalho com JavaScript, TypeScript, React, Next.js, Vite e Node.js, desenvolvendo sistemas web completos, dashboards, APIs, automações e integrações, com foco em performance, escalabilidade, código limpo e UI/UX funcional.
+Atuo do front ao back-end, desenvolvendo sistemas web completos, dashboards, APIs, automações e integrações, com foco em performance, escalabilidade, código limpo e UI/UX funcional.
 
-Possuo experiência com bancos de dados relacionais e não relacionais, modelagem de dados, consultas, integrações com back-end e persistência de informações em aplicações reais.
+Tenho experiência com bancos de dados relacionais e não relacionais, incluindo modelagem de dados, consultas e integração com aplicações reais.
 
-Sou fundador da GrayCoder, minha agência de desenvolvimento, onde crio soluções digitais sob medida, cuidando desde a arquitetura até a entrega final.
+Sou fundador da **GrayCoder**, minha agência de desenvolvimento, onde crio soluções digitais sob medida, cuidando desde a arquitetura até a entrega final.
 
 Programar, pra mim, é pensar arquitetura, escrever código limpo e entregar soluções que funcionam no mundo real.
+
 ---
 
 ##  O que eu desenvolvo
