@@ -14,7 +14,7 @@ Atuo do front ao back-end, desenvolvendo sistemas web completos, dashboards, API
 
 Tenho experiência com bancos de dados relacionais e não relacionais, incluindo modelagem de dados, consultas e integração com aplicações reais.
 
-Sou fundador da **GrayCoder**, minha agência de desenvolvimento, onde crio soluções digitais sob medida, cuidando desde a arquitetura até a entrega final.
+E hoje com 18 anos sou fundador da **GrayCoder**, minha agência de desenvolvimento, onde crio soluções digitais sob medida, cuidando desde a arquitetura até a entrega final.
 
 Programar, pra mim, é pensar arquitetura, escrever código limpo e entregar soluções que funcionam no mundo real.
 
