@@ -1,24 +1,10 @@
+Prazer eu sou o Guilherme Costa
 
-#  Prazer, eu sou Guilherme Costa
-
- **Desenvolvedor Full Stack** focado em criar **produtos digitais completos**, escaláveis e orientados a resultado.
-
-Trabalho do **front ao back-end**, entregando desde **landing pages de alta conversão** até **sistemas internos complexos**, **dashboards**, **SaaS** e **plataformas de e-commerce**.
-
+Desenvolvedor Full Stack
+Tenho 18 anos e desenvolvo sistemas web completos — do front-end ao back-end — com foco em performance, escalabilidade e experiência do usuário.
+Comecei a programar aos 15 anos e desde então venho construindo produtos reais: dashboards, plataformas SaaS, sistemas administrativos, e-commerces e APIs. Tenho experiência com bancos de dados relacionais e não relacionais, autenticação, regras de negócio e arquitetura de aplicações.
+Hoje sou fundador da GrayCoder, agência onde entrego soluções digitais sob medida para empresas — cuidando de toda a arquitetura até a entrega final.
 ---
-## 👨‍💻 Sobre mim
-
-Sou Desenvolvedor Full Stack e comecei a programar aos 15 anos, aprendendo na prática e construindo projetos reais desde cedo.
-
-Atuo do front ao back-end, criando sistemas web completos, dashboards, APIs e automações, sempre com foco em performance, escalabilidade, código limpo e UX funcional.
-
-Tenho experiência com bancos de dados relacionais e não relacionais, incluindo modelagem, consultas e aplicação prática em projetos reais.
-
-Hoje, aos 18 anos, sou fundador da GrayCoder, minha agência de desenvolvimento, onde crio soluções digitais sob medida, cuidando de toda a arquitetura até a entrega final.
-
-Para mim, programar não é só escrever código: é projetar soluções que realmente funcionam no mundo real.
----
-
 ##  O que eu desenvolvo
 
 - ✅ **SaaS (Software as a Service)**
