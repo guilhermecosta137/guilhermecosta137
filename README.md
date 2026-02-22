@@ -1,7 +1,7 @@
 **Guilherme Costa — Full Stack Developer**
 
-Tenho 18 anos e desenvolvo sistemas web completos — do front-end ao back-end com foco em performance, escalabilidade e experiência do usuário.
-Comecei a programar aos 15 anos e desde então venho construindo produtos reais. Hoje sou fundador da GrayCoder, agência onde entrego soluções digitais sob medida para empresas, cuidando de toda a arquitetura até a entrega final.
+Tenho 18 anos e desenvolvo sistemas web completos — **do front-end ao back-end** com foco em performance, escalabilidade e experiência do usuário.
+Comecei a programar aos 15 anos e desde então venho construindo produtos reais. **Hoje sou fundador da GrayCoder**, agência onde entrego soluções digitais sob medida para empresas, cuidando de toda a arquitetura até a entrega final.
 
 Antes de fundar a GrayCoder, já tive experiências em empresas locais de Juiz de Fora, onde trabalhava em equipe e desenvolvia projetos reais. Além de ter minha própria agência, continuo buscando oportunidades em empresas porque acredito que experiência se constrói com times diferentes. Gosto de desafios técnicos complexos, de entregar com qualidade e de evoluir constantemente. 
 
